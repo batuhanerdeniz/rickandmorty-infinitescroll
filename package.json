@@ -1,5 +1,5 @@
 {
-  "name": "pagination",
+  "name": "rickandmorty-infinitescroll",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3001",
